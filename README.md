@@ -1,6 +1,6 @@
 ## Installation of Mangata Finalizer Operator using docker
 
-AVS Service Contract: [0xD2333E11ea617E30fb97900f6ac9782A85f233e7](https://goerli.etherscan.io/address/0xD2333E11ea617E30fb97900f6ac9782A85f233e7)
+AVS Service Contract:: [0xD2333E11ea617E30fb97900f6ac9782A85f233e7](https://goerli.etherscan.io/address/0xD2333E11ea617E30fb97900f6ac9782A85f233e7)
 
 ### Prerequisites:
 * Docker installed
